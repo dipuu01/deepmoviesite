@@ -1,4 +1,4 @@
-# 🎬 Movie Finder App  
+# 🎬 Movie Finder WebApp  
 A clean and functional movie search app to explore your favorite films, powered by API integration and styled with responsive CSS.
 
 🌐 **Live Demo**  
